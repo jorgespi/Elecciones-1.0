@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "data-db-connection":"mongodb+srv://mintic-ciclo4:80094881@cluster0.az3qqu0.mongodb.net/bd-registro-academico?retryWrites=true&w=majority",
+  "name-db":"bd-registro-academico"
+
+}
